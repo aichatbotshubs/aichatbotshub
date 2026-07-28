@@ -1,6 +1,6 @@
 # aichatbotshub
 Independent, hands-on reviews and comparisons of AI chatbots. We test every tool ourselves — no pay-to-play, no recycled spec sheets — so you can see what actually works and pick the right one fast. Visit aichatbotshub.com for the full directory.
-Visit the site: aichatbotshub.com
+Visit the site: https://www.aichatbotshub.com/
 
 What we do
 
@@ -14,4 +14,4 @@ Tools we cover
 
 ChatGPT, Gemini, Claude, Perplexity, and newer names worth watching.
 
-Maintained by Patricia Williams · aichatbotshub.com
+Maintained by Patricia Williams · https://www.aichatbotshub.com/
